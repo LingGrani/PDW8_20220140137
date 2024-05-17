@@ -1,0 +1,9 @@
+.bordered-div {
+  padding: 30px;
+  border-radius: 10px;
+  background-color: rgb(28, 28, 28);
+}
+
+.icon {
+  width: 30px;
+}
